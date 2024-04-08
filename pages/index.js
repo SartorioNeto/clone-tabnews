@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Amor, vou aprender tudo da programação por nós, pelo nosso futuro, é você quem eu quero, e não tenha dúvida !!! TE AMO S2 </h1>
+    return <h1>Eu vou aprender a programar, sempre praticando e aprendendo! </h1>
 }
 
 export default Home;
